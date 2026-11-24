@@ -5,7 +5,7 @@ export const profile = {
   role: "Frontend Developer",
   tagline: "Frontend developer building with React and TypeScript, growing into backend.",
   badge: "Open to frontend and junior full-stack roles",
-  headline: "I turn designs into fast, clean interfaces, and I’m learning the backend behind them.",
+  headline: "I turn designs into fast, clean interfaces, and currently transitioning into building the APIs that power them.",
   intro:
     "Hello! I am Amazing-Grace a frontend developer. I build responsive web apps with React, TypeScript, Next.js and Tailwind CSS, connecting them to REST APIs. Currently transitioning into backend development building features from the screen to the server.",
   email: "amazinggrace.nd@gmail.com",
