@@ -4,7 +4,7 @@ export const profile = {
   name: "Amazing-Grace Ndubueze",
   role: "Frontend Developer",
   tagline: "Frontend developer building with React and TypeScript, growing into backend.",
-  badge: "Open to frontend and junior full-stack roles",
+  badge: "Open to frontend and full-stack roles",
   headline: "I turn designs into fast, clean interfaces, and currently transitioning into building the APIs that power them.",
   intro:
     "Hello! I am Amazing-Grace a frontend developer. I build responsive web apps with React, TypeScript, Next.js and Tailwind CSS, connecting them to REST APIs. Currently transitioning into backend development building features from the screen to the server.",
@@ -82,14 +82,14 @@ export type Experience = {
 export const experience: Experience[] = [
   {
     role: "Backend / Full-stack Developer Intern",
-    org: "Terra Learning / Side Hustle",
+    org: "Script Desk",
     period: "Oct 2026 – Present",
     points: [
       "Build backend features with Python and FastAPI: routes, endpoints, models, schemas and services that work together to handle each request.",
       "Design REST APIs and work with HTTP methods (GET, POST, PUT, PATCH, DELETE), JSON, headers and query parameters.",
       "Implement authentication and authorization, including login, OTP verification, access tokens and permissions.",
       "Model and manage data with SQLAlchemy and SQL: tables, primary and foreign keys, relationships and joins.",
-      "Integrate third-party APIs such as IntelliHQ, including subscription verification and handling of API responses.",
+      "Integrate third-party APIs, including subscription verification and handling of API responses.",
       "Debug using Swagger and backend logs, and read HTTP status codes (200, 401, 403, 404, 422, 500, 503) to find the cause of errors.",
       "Work on application logic: subscription access, gameplay rules, user records and data for an admin dashboard.",
     ],
